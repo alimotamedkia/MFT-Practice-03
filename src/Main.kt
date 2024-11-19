@@ -10,6 +10,7 @@ fun main() {
         number.add(numberInput)
     }
     println(number.reversed())
+    println(number.toSet())
 
 
 }
